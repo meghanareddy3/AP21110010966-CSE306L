@@ -6,5 +6,5 @@ a>=b
 a<=b
 a==b
 \\hello
-printf("my name is naveennekkanti");
+printf("my name is meghanareddy");
 }
